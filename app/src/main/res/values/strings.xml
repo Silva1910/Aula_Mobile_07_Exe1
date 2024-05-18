@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula_Mobile_07_Exe1</string>
+    <string name="etPoupancaSaque"> DIGITE O VALOR DO SAQUE</string>
+    <string name="etPoupancaDeposito">DIGITE O VALOR DO DEPOSITO </string>
+    <string name="etEspecialSaque">DIGITE O VALOR DO SAQUE</string>
+    <string name="etEspecialDeposito"> DIGITE O VALOR DO DEPOSITO </string>
+    <string name="tvPoupanca"> CONTA POUPANCA </string>
+    <string name="tvEspecial"> CONTA ESPECIAL </string>
+    <string name="btnCalc"> CALCULAR </string>
+    <string name="rdPoupanca"> POUPANCA </string>
+    <string name="rdEspecial"> ESPECIAL </string>
+</resources>
